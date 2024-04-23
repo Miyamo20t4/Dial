@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dial</string>
+    <string name="keyboardImage">keyboardImage</string>
+    <string name="touchData">noData</string>
+    <string name="BigID">noData</string>
+    <string name="SmallID">noData</string>
+    <string name="text">\?</string>
+    <string name="zero">0</string>
+    <string name="startText">タスク表示欄</string>
+</resources>
